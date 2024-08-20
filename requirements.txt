@@ -11,7 +11,7 @@ distlib==0.3.6
 docutils==0.15.2
 exceptiongroup==1.0.0
 filelock==3.9.0
-idna==3.4
+idna==3.7
 jmespath==0.10.0
 jsii==1.70.0
 lxml==4.9.1
