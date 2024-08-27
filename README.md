@@ -2,6 +2,8 @@
 
 The purpose of this repository is to secure and accelerate an existing WordPress website by leveraging AWS Edge Services : Amazon CloudFront, Amazon CloudFront Functions and AWS WAF (Web Application Firewall). 
 
+ Follow the associated blog here (https://aws.amazon.com/blogs/networking-and-content-delivery/secure-and-accelerate-your-wordpress-cms-with-amazon-cloudfront-aws-waf-and-edge-functions/)
+
 ## Prerequisites
 
 1. NodeJS (v. 16.3+) NodeJS is required for running and installing AWS CDK. You can download it [here](https://nodejs.org/en/download/).
