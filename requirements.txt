@@ -16,7 +16,7 @@ jmespath==0.10.0
 jsii==1.70.0
 lxml==4.9.1
 packaging==23.0
-Pillow==9.3.0
+Pillow==10.3.0
 pipenv==2023.2.18
 platformdirs==3.0.0
 protobuf==4.21.12
